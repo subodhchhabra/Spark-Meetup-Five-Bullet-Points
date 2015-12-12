@@ -1,0 +1,35 @@
+Announcing Spark 1.6 Preview in Databricks → News
+https://databricks.com/blog/2015/11/20/announcing-spark-1-6-preview-in-databricks.html
+
+TensorFlow - Google’s Library for Machine Intelligence is now Open Source → News
+http://www.tensorflow.org/
+
+Apache SystemML → IBM opensourced their decelerative ML library
+http://systemml.incubator.apache.org/
+
+Clash of the Titans: MapReduce vs. Spark for Large Scale Data Analytics → Paper
+http://www.vldb.org/pvldb/vol8/p2110-shi.pdf
+
+Patterns for real-time stream processing → Conference Presentation
+http://crunchconf.com/
+
+Why is Apache Spark So Hot? → New User/Outsider
+http://insidebigdata.com/2015/11/17/why-is-apache-spark-so-hot/
+
+Spinning up an Apache Spark Cluster: Step-by-Step
+http://blog.insightdatalabs.com/spark-cluster-step-by-step/
+
+C# language binding and extensions to Apache Spark 
+https://github.com/Microsoft/SparkCLR
+
+3 Reasons You'll Never Be A Data Scientist
+https://www.linkedin.com/pulse/3-reasons-youll-never-data-scientist-benjamin-taylor?trk=hp-feed-article-title-comment
+
+Machine Learning and Technical Debt with D. Sculley
+http://softwareengineeringdaily.com/2015/11/17/machine-learning-and-technical-debt-with-d-sculley/
+
+The Hardest Parts of Data Science
+http://yanirseroussi.com/2015/11/23/the-hardest-parts-of-data-science/
+
+New Pandas Release V0.17.1
+http://pandas.pydata.org/pandas-docs/version/0.17.1/whatsnew.html

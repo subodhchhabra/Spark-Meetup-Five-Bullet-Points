@@ -1,0 +1,46 @@
+News:
+
+3 Major Things You Should Know About Apache Spark 1.6
+http://www.datanami.com/2015/11/30/3-major-things-you-should-know-about-apache-spark-1-6/
+
+C# language binding and extensions to Apache Spark 
+https://github.com/Microsoft/SparkCLR
+
+Introduction/Introductory:
+
+One year on: Apache Spark continues a winning battle against data management misery
+http://www.comparethecloud.net/articles/one-year-on-apache-spark-continues-a-winning-battle-against-data-management-misery/
+
+Data & Analytics In 2016: Superstar Industry Experts Weigh In
+http://marketingland.com/data-analytics-2016-industry-experts-weigh-153793
+
+Papers/Presentations/Conference Talks:
+
+Everyday I'm Shuffling - Tips for Writing Better Spark Programs
+http://www.slideshare.net/databricks/strata-sj-everyday-im-shuffling-tips-for-writing-better-spark-programs
+
+Hidden Technical Debt in Machine Learning Systems
+http://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf
+
+Tutorials:
+
+Spinning up an Apache Spark Cluster: Step-by-Step
+http://blog.insightdatalabs.com/spark-cluster-step-by-step/
+
+Apache Spark Quick Start
+http://spark.apache.org/docs/latest/quick-start.html
+
+First Steps with Spark - Screencast
+http://spark.apache.org/screencasts/1-first-steps-with-spark.html
+
+Getting Started with Apache Spark and Cassandra
+https://academy.datastax.com/demos/getting-started-apache-spark-and-cassandra
+
+Apache Spark Streaming
+https://academy.datastax.com/demos/apache-spark-streaming
+
+PySpark and the Mandelbrot Set: Overkill Indeed
+http://1oclockbuzz.com/2015/11/24/pyspark-and-the-mandelbrot-set-overkill-indeed/
+
+Data Science for Losers, Part 5 – Spark DataFrames	
+http://blog.brakmic.com/data-science-for-losers-part-5-spark-dataframes/
