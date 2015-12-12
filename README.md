@@ -7,5 +7,5 @@ This github repo is being made public so that other meetups can make use of this
 Found something that blows you away? Submit it, so the rest of the community can revel in its awesomeness (two ways):
 - Submit a pr with content added to the current month OR
 - Submit a link and small description to this google form (http://goo.gl/forms/5K9Ua4kli2)
-  - Trying to tie these two methods together. Coming Soon. (https://zapier.com/zapbook/github/google-drive/)
+  - Trying to tie these two methods together. Coming Soon. (https://github.com/samtalasila/Spark-Meetup-Five-Bullet-Points/issues/1)
 
