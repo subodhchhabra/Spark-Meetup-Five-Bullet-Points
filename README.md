@@ -1,5 +1,7 @@
 # Spark-Meetup-Five-Bullet-Points
 
+[![Join the chat at https://gitter.im/TorontoApacheSpark/Spark-Meetup-Five-Bullet-Points](https://badges.gitter.im/TorontoApacheSpark/Spark-Meetup-Five-Bullet-Points.svg)](https://gitter.im/TorontoApacheSpark/Spark-Meetup-Five-Bullet-Points?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The Five Bullet Points started as an effort every month to provide the Toronto Apache Spark Meetup community (http://www.meetup.com/Toronto-Apache-Spark/) with about five essential developments in Spark Eco-system or related fields that would be of interest to any user or student of Spark.
 
 This github repo is being made public so that other meetups can make use of this space to source content that can be shared with their communities.
