@@ -1,0 +1,27 @@
+News, Announcements and Reviews:
+
+Spark and Machine Learning
+	Auto-scaling scikit-learn with Spark
+		https://databricks.com/blog/2016/02/08/auto-scaling-scikit-learn-with-spark.html
+	Deep Learning with Spark and TensorFlow
+		https://databricks.com/blog/2016/01/25/deep-learning-with-spark-and-tensorflow.html
+
+Faster Stateful Stream Processing in Spark Streaming
+	https://databricks.com/blog/2016/02/01/faster-stateful-stream-processing-in-spark-streaming.html
+
+
+Tools:
+
+Why pandas users should be excited about Apache Arrow
+	http://wesmckinney.com/blog/pandas-and-apache-arrow/
+	Submitted by TAS member: Marnie Landon
+	
+A New Library for Analyzing Time-Series Data with Apache Spark
+	http://blog.cloudera.com/blog/2015/12/spark-ts-a-new-library-for-analyzing-time-series-data-with-apache-spark/
+
+
+Introduction:
+
+Why is there a need to manually implement machine learning algorithms when there are many advanced APIs like tensorflow available?
+	https://www.quora.com/Why-is-there-a-need-to-manually-implement-machine-learning-algorithms-when-there-are-many-advanced-APIs-like-tensorflow-available/answer/Xavier-Amatriain?srid=cgo
+ 

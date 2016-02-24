@@ -1,0 +1,17 @@
+News, Announcements and Reviews:
+—Introducing Spark Datasets
+- -https://goo.gl/Rkxaxi
+
+Papers, Podcasts and Presentations:
+-Data Visualization Podcast
+- -http://goo.gl/v6xxE1
+
+Tools:
+-Data Sketches - Sketches Library from Yahoo!
+- -https://goo.gl/1lTPqg
+-Kudu - Fast Analytics on Hadoop
+- -http://goo.gl/ptkMuS
+
+Introduction to Spark:
+-Spark Introduction
+- -https://goo.gl/NY9wkf
